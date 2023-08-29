@@ -17,3 +17,9 @@ taller than the image beside it as the viewport got thinner.
 I had fun with this, and I'm happy with how it came out! I may revisit this later to
 try to make my code more efficient, because I know it certainly can be cleaned up,
 but I am satisfied with my work for now.
+
+IMAGE CREDITS:
+All artwork used is considered official art for the characters in question.
+Kasane Teto's Synthesizer V art was illustrated by Sakauchi Waka (坂内 若). They can be found at https://twitter.com/sakauchi0
+Kasane Teto's UTAU art was illustrated by Sen (線). They can be found at https://twitter.com/sen_teto
+Defoko's art was illustrated by derenta. They can be found at https://twitter.com/derenta
